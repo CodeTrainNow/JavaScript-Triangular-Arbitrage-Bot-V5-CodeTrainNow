@@ -98,7 +98,10 @@ The bot will begin searching for profitable triangular arbitrage loops in real-t
 
 This bot runs **entirely in your local webbrowser** — no data is sent to any server, and no external backend is used. All logic and execution happen client-side, ensuring your wallet and private data remain secure.
 
+---
+if you have time please vote for me at the next codeathon I won 4th place last time
 
+![codeathon](./img/image_20251206_095136_1f426b.png)
 ---
 
 ## 📚 Documentation
@@ -108,6 +111,7 @@ This bot runs **entirely in your local webbrowser** — no data is sent to any s
 - [Supported DEX APIs](https://getdex.com/docs/integrationsandfeatures/api)
 
 ---
+
 
 ## 🙌 Contributing
 
